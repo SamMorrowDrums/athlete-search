@@ -1,6 +1,6 @@
 # Young Athlete Data Storage & Search
 
-I have created a simple JSON API that can be queried in the browser or with `curl`. You can seach on all the suggested values:
+I have created a simple JSON API that can be queried in the browser or with `curl`. You can search on all the suggested values:
 
 - Name `localhost:8080/records/search?name=something` for partial matches
 - Name `localhost:8080/records/search?strict=true&name=something` for exact matches
