@@ -1,0 +1,99 @@
+[
+    {
+        "skills": [
+            "Rowing",
+            "Swimming",
+            "Surfing",
+            "Wakeboarding"
+        ],
+        "name": "Water Sports"
+    },
+    {
+        "skills": [
+            "Discus"
+        ],
+        "name": "Field"
+    },
+    {
+        "skills": [
+            "Auto Racing",
+            "Formula 1",
+            "Raleigh Racing",
+            "Moto-X"
+        ],
+        "name": "Racing"
+    },
+    {
+        "skills": [
+            "Horse Racing",
+            "Polo",
+            "Dressage"
+        ],
+        "name": "Equestrian Sports"
+    },
+    {
+        "skills": [
+            "Moto-X",
+            "Cycling",
+            "BXM"
+        ],
+        "name": "Bike Sports"
+    },
+    {
+        "skills": [
+            "Wakeboarding",
+            "Skateboarding",
+            "Snowboarding",
+            "Moto-X",
+            "BMX",
+            "Surfing"
+        ],
+        "name": "Extreme Sports"
+    },
+    {
+        "skills": [
+            "Rugby",
+            "Volleyball",
+            "Basketball",
+            "Soccer",
+            "American Football",
+            "Bowling",
+            "Baseball",
+            "Cricket"
+        ],
+        "name": "Ball Sports"
+    },
+    {
+        "skills": [
+            "Badminton",
+            "Tennis",
+            "Squash"
+        ],
+        "name": "Racquet Sports"
+    },
+    {
+        "skills": [
+            "Mixed Martial Arts",
+            "Boxing",
+            "Wrestling"
+        ],
+        "name": "Martial Arts"
+    },
+    {
+        "skills": [
+            "Bobsleigh",
+            "Snowboarding",
+            "Skiing",
+            "Curling"
+        ],
+        "name": "Winter Sports"
+    },
+    {
+        "skills": [
+            "Sprinting",
+            "Cycling",
+            "Endurance Running"
+        ],
+        "name": "Track"
+    }
+]

@@ -1,0 +1,68 @@
+{
+    "Ball Sports": [
+        "Rugby",
+        "Volleyball",
+        "Basketball",
+        "Soccer",
+        "American Football",
+        "Bowling",
+        "Baseball",
+        "Cricket"
+    ],
+    "Racquet Sports": [
+        "Badminton",
+        "Tennis",
+        "Squash"
+    ],
+    "Martial Arts": [
+        "Mixed Martial Arts",
+        "Boxing",
+        "Wrestling"
+
+    ],
+    "Winter Sports": [
+        "Bobsleigh",
+        "Snowboarding",
+        "Skiing",
+        "Curling"
+    ],
+    "Track": [
+        "Sprinting",
+        "Cycling",
+        "Endurance Running"
+    ],
+    "Field": [
+        "Discus"
+    ],
+    "Equestrian Sports": [
+        "Horse Racing",
+        "Polo",
+        "Dressage"
+    ],
+    "Extreme Sports": [
+        "Wakeboarding",
+        "Skateboarding",
+        "Snowboarding",
+        "Moto-X",
+        "BMX",
+        "Surfing"
+    ],
+    "Racing": [
+        "Auto Racing",
+        "Formula 1",
+        "Raleigh Racing",
+        "Moto-X"
+    ],
+    "Bike Sports": [
+        "Moto-X",
+        "Cycling",
+        "BXM"
+    ],
+    "Water Sports": [
+        "Rowing",
+        "Swimming",
+        "Surfing",
+        "Wakeboarding"
+    ]
+
+}
